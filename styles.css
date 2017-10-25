@@ -1,0 +1,83 @@
+.nav-area{
+  position: absolute;
+  top: 0;
+
+}
+
+#my-slider{
+  margin-top: 80px;
+  z-index: -1;
+}
+
+body{
+  background-color:	#F1C50E;
+}
+
+.navbar-custom {
+    background-color: #34495D;
+    color: #ffffff;
+    border-radius: 0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#9DAEB8;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #9DAEB8;
+    background-color: transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: #9DAEB8;
+}
+
+.navbar-custom .navbar-brand {
+    color:#93A5A5;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#93A5A5;
+}
+.navbar-custom .icon-bar {
+    background-color:#34495E;
+}
+
+.carousel .item {
+  height: 600px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 600px;
+}
+
+.navbar-header {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+}
+
+.slogan{
+  position: absolute;
+  top: 800px;
+  padding-left: 10%;
+  color: #ECF0F1;
+}
+.slogan h1{
+  font-size: 70px;
+  font-family: monospace;
+}
+
+
+.slogan h1 span{
+  color: #E84C3D;
+}
+
+
